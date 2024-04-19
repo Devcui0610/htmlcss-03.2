@@ -281,19 +281,19 @@ a {
     left: -100px;
 }
 
-.hero__right--purple{
+.hero__right--purple {
     position: absolute;
     top: -25px;
     left: -300px;
 }
 
-.hero__right--icon-45{
+.hero__right--icon-45 {
     position: absolute;
     bottom: -50px;
     left: -200px;
 }
 
-.hero__right--triangle{
+.hero__right--triangle {
     position: absolute;
     bottom: -150px;
     left: -230px;
@@ -409,6 +409,23 @@ a {
     right: -12px;
 }
 
+.hero__right--name-2 {
+    position: absolute;
+    top: 50px;
+    right: -20px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    border-radius: 15.111px;
+    background: #fafafa;
+    width: 28px;
+    height: 15px;
+    color: #279e73;
+    font-size: 1rem;
+    font-weight: 600;
+    padding: 4px 27px;
+}
+
 .header__box-info-2 {
     width: 343px;
 }
@@ -434,6 +451,7 @@ a {
     background: #fd9b79;
 }
 
+.hero__right--row-2 .header__box--circle,
 .hero__right--row-2 .header__box--cursor {
-    bottom: -2.1em;
+    display: none;
 }
