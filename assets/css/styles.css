@@ -68,7 +68,7 @@ a {
     height: 746px;
     width: 100%;
     max-width: 100%;
-    grid-template-columns: 1.6fr 320px 1fr;
+    grid-template-columns: 1.5fr 270px 1fr;
 }
 
 .header__bg--left {
